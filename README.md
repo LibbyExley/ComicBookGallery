@@ -1,2 +1,2 @@
 # ComicBookGallery
-Treehouse tutorial to make an MVC Werb App
+Treehouse tutorial to make an MVC Web App
